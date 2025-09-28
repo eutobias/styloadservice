@@ -1,0 +1,10 @@
+Você deve estar de acordo com esses termos para efetuar seu cadastro.
+
+1 - O serviço.
+Este é um serviço de rotação de banners onde você adiciona, edita e deleta os banners os banners que serã rotacinados em seu site, tendo também como cadastrar as zonas (areas) de rotação de banners e ainda cadastrar, editar e deletar os anunciantes atribuindo quantos banners você quiser a cada um deles, os banners serão exibidos a partir de um código que é gerado pelo sistema, onde você adiciona esse código em seu site.
+
+2- As condições
+Não a restrições quanto a conteúdo, visitas e etc, a única restrição é que o usuario cadastrado não deixe de acessar a sua conta por mais de 30 dias, senão sua conta será deletada sem aviso prévio e todos os banners, anunciantes e zonas cadastrados em seu nome também serão deletados.
+
+3- Copyright
+Este serviço é oferecido pelo site styloweb.org (http://www.styloweb.org) e atualmente se encontra na versão {versao}.
